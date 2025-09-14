@@ -9,7 +9,7 @@ Write a program with the C++ STL library to check balanced parentheses in expres
 3. 運算結果
 
 **輸入格式**  
-(1+2)*(3+4)  
+$(1+2)*(3+4)$  
 (5+(3*2))-(6/3)  
 
 **輸出範例**
